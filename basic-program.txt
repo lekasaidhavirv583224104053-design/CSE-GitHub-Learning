@@ -1,0 +1,12 @@
+Hello GitHub!
+
+This is my GitHub practice repository.
+
+I am learning:
+- Version control
+- Repository management
+- Basic GitHub features
+
+Created by: Leka Ramesh
+Department: CSE
+Year: II Year
